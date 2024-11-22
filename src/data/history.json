@@ -1,29 +1,15 @@
 [
-    {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    }
-  ]
+  {
+    "role": "Student at GAI | Pursuing Computer Science Engineering @Graphic Arts Institute",
+    "organisation": "GAI",
+    "startDate": "Year of Admission, 2022",
+    "endDate": "2025",
+    "experiences": [
+      "My Journey as a Full-Stack Developer",
+      "RI’ve been on a dedicated path to becoming a full-stack developer for the past four years. My journey began with a strong interest in how websites and applications work, which led me to dive deep into both front-end and back-end technologies. Over time, I honed my skills in languages like JavaScript, HTML, CSS, and frameworks like React.js, Next.js, and Node.js.",
+      "Throughout my studies, I’ve focused on building real-world applications, from simple static websites to complex, dynamic web apps. I love the challenge of taking an idea from concept to code, turning problems into solutions through innovation. This hands-on experience in creating and deploying websites has given me a solid foundation, even though I haven’t worked in a professional environment yet.",
+      "I’m passionate about creating clean, efficient, and scalable code, and my portfolio is a reflection of that. Every project I've worked on has helped me grow, and I’m excited about continuing my development journey, whether it’s contributing to open-source projects, collaborating with other developers, or eventually joining a professional team."
+    ],
+    "imageSrc": "history/GAI.png"
+  }
+]
