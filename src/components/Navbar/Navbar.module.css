@@ -22,7 +22,6 @@
   display: none;
 }
 
-
 .menu {
   display: flex;
 }
@@ -80,5 +79,4 @@
     display: flex;
     z-index: 1;
   }
-  
 }
