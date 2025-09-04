@@ -1,11 +1,11 @@
 [
   {
     "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/english-janala.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["javaScript", "CSS", "HTML"],
+    "skills": ["javaScript", "TailwindCSS", "HTML"],
     "demo": "https://english-janala-two.vercel.app/",
-    "source": "https://github.com/alifhossinsajjad/Emergency-Hotline"
+    "source": "https://github.com/alifhossinsajjad/English-Janala"
   },
   {
     "title": "Project B",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/national-hotline.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://emergency-hotline.vercel.app/",
