@@ -4,8 +4,8 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["javaScript", "CSS", "HTML"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com/alifhossinsajjad/game"
+    "demo": "https://english-janala-two.vercel.app/",
+    "source": "https://github.com/alifhossinsajjad/Emergency-Hotline"
   },
   {
     "title": "Project B",
